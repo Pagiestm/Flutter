@@ -1,6 +1,17 @@
-# flutter_decouverte
+# Flutter
 
-A new Flutter project.
+Retrouvez ici mes cours en flutter lors de ma 3e années pour découvrir Flutter.
+Chaque exercice se situe dans une page qui permet d'être visité au travers d'une barre de navigation.
+
+## Les Exercices :
+
+### Tasks : 
+
+Dans le dossier Tasks, vous pouvez retrouver ces fonctionnalités :
+
+- Ajouter des tâches à la liste.
+- Logique pour marquer une tâche comme terminée.
+- Fonctionnalité pour supprimer des tâches.
 
 ## Getting Started
 
